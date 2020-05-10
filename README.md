@@ -1,4 +1,4 @@
-# PY_DS_ML
+# PY_DS_ML(Python, Data Science, and Machine Learning)
 In this repository, I am gonna share study materials and projects related to Python, Machine Learning(ML), and Data Science(DS)
 
 # Topics Covered in this repository
@@ -70,7 +70,7 @@ In this repository, I am gonna share study materials and projects related to Pyt
          <li>Image and Video Captioning using Computer Vision and Deep Learning</li>
          <li>next word recommendation(ex: in Google Search engine)</li>
          <li>Virtual Assistant like Alexa(by amazon), Siri(by Apple), Google Assistant(by Google), Cortana(by Microsoft)</li>
-         <li><b>NLP Libraries in Python: NLTK, Textblob</b>, etc</li>
+         <li><b>NLP Libraries in Python: NLTK, Textblob, Spacy, gensim, Word2Vec</b>, etc</li>
          <li>etc.</li>
        </ul>
      </li>
